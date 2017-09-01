@@ -2,6 +2,16 @@
 Java WebSockets
 ===============
 
+##Course project at Sofia University "St. Kliment Ohridski", Faculty of Mathematics and Informatics.</h2>
+
+###Subject: Network Programming with Java
+
+###Lecturer: Assoc. Prof. Milen Petrov, Ph. D.
+
+##Prerequisites:
+
+###Java 8 SE
+
 This repository contains a barebones WebSocket server and client implementation
 written in 100% Java. The underlying classes are implemented `java.nio`, which allows for a
 non-blocking event-driven model (similar to the
