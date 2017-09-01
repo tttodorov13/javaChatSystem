@@ -11,9 +11,6 @@ Subject: Network Programming with Java
 Lecturer: Assoc. Prof. Milen Petrov, Ph. D.
 -------------------
 
-Prerequisites:
--------------------
-* Java 8 SE
 
 This repository contains a barebones WebSocket server and client implementation
 written in 100% Java. The underlying classes are implemented `java.nio`, which allows for a
